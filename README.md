@@ -1,6 +1,6 @@
-This repository provides the official TensorFlow implementation of the paper:
+**CamoNet: On-Device Neural Network Adaptation With Zero Interaction and Unlabeled Data for Diverse Edge Environments**
 
-"CamoNet: On-Device Neural Network Adaptation With Zero Interaction and Unlabeled Data for Diverse Edge Environments"
+This repository provides the official TensorFlow implementation of the paper: "CamoNet: On-Device Neural Network Adaptation With Zero Interaction and Unlabeled Data for Diverse Edge Environments"
 https://ieeexplore.ieee.org/document/10522944
 
 The project includes the on-device training and evaluation pipeline reported in the paper.
